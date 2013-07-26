@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://parga.github.io/atom.xml" rel="self"/>
+  <link href="http://parga.github.io/"/>
+  <updated>2013-07-26T13:18:31-05:00</updated>
+  <id>http://parga.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Backbone Components]]></title>
+    <link href="http://parga.github.io/blog/2013/07/26/new-entry/"/>
+    <updated>2013-07-26T12:58:00-05:00</updated>
+    <id>http://parga.github.io/blog/2013/07/26/new-entry</id>
+    <content type="html"><![CDATA[<p>Here ill try to excute some code to decouple and instatiate a component</p>
+
+<pre><code>if(a === null){
+
+}
+</code></pre>
+]]></content>
+  </entry>
+  
+</feed>
