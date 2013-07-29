@@ -4,7 +4,7 @@
   <title><![CDATA[Jorge Parga]]></title>
   <link href="http://parga.github.io/atom.xml" rel="self"/>
   <link href="http://parga.github.io/"/>
-  <updated>2013-07-29T09:47:54-05:00</updated>
+  <updated>2013-07-29T09:55:58-05:00</updated>
   <id>http://parga.github.io/</id>
   <author>
     <name><![CDATA[Jorge Parga]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Why to test]]></title>
+    <link href="http://parga.github.io/blog/2013/07/29/why-to-test/"/>
+    <updated>2013-07-29T09:55:00-05:00</updated>
+    <id>http://parga.github.io/blog/2013/07/29/why-to-test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
