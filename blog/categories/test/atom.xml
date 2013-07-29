@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Jorge Parga]]></title>
-  <link href="http://parga.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Test | Jorge Parga]]></title>
+  <link href="http://parga.github.io/blog/categories/test/atom.xml" rel="self"/>
   <link href="http://parga.github.io/"/>
   <updated>2013-07-29T10:06:29-05:00</updated>
   <id>http://parga.github.io/</id>
