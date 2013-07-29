@@ -1,37 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Jorge Luis Parga V.]]></title>
+  <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://parga.github.io/atom.xml" rel="self"/>
   <link href="http://parga.github.io/"/>
-  <updated>2013-07-26T14:40:13-05:00</updated>
+  <updated>2013-07-29T09:02:31-05:00</updated>
   <id>http://parga.github.io/</id>
   <author>
-    <name><![CDATA[Jorge Luis Parga Villalpando]]></name>
+    <name><![CDATA[Your Name]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Backbone Components]]></title>
-    <link href="http://parga.github.io/blog/2013/07/26/new-entry/"/>
-    <updated>2013-07-26T12:58:00-05:00</updated>
-    <id>http://parga.github.io/blog/2013/07/26/new-entry</id>
-    <content type="html"><![CDATA[<p>Here ill try to excute some code to decouple and instatiate a component</p>
-
-<figure class='code'><figcaption><span>Time to be Awesome - awesome.js </span></figcaption>
- <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-</pre></td><td class='code'><pre><code class='js'><span class='line'>   <span class="k">for</span><span class="p">(</span><span class="kd">var</span> <span class="nx">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="nx">i</span> <span class="o">&lt;</span> <span class="nx">j</span><span class="p">.</span><span class="nx">lenght</span><span class="p">;</span> <span class="nx">i</span><span class="o">++</span><span class="p">){</span>
-</span><span class='line'>      <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="s1">&#39;never&#39;</span><span class="p">);</span>
-</span><span class='line'>  <span class="p">}</span>
-</span></code></pre></td></tr></table></div></figure>
-
-
-
-]]></content>
-  </entry>
   
 </feed>
