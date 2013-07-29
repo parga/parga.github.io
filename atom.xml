@@ -4,7 +4,7 @@
   <title><![CDATA[Jorge Parga]]></title>
   <link href="http://parga.github.io/atom.xml" rel="self"/>
   <link href="http://parga.github.io/"/>
-  <updated>2013-07-29T10:06:29-05:00</updated>
+  <updated>2013-07-29T17:06:16-05:00</updated>
   <id>http://parga.github.io/</id>
   <author>
     <name><![CDATA[Jorge Parga]]></name>
@@ -12,17 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Why to create unit test]]></title>
-    <link href="http://parga.github.io/blog/2013/07/29/why-to-test/"/>
-    <updated>2013-07-29T09:55:00-05:00</updated>
-    <id>http://parga.github.io/blog/2013/07/29/why-to-test</id>
-    <content type="html"><![CDATA[<p>es comun que al estar programando con concentremos mas en crear el codigo y que simplemente &ldquo;funcione&rdquo;, pero para esto es necesario planificar:generar un orden en como vamos a atacar ese codigo no es simplemente decir &ldquo;manos a la obra&rdquo;.</p>
-
-<p>Esto se acentua mas cuando trabajas en un equipo,debido a que la implementacion no siempre esta aislada y puede ser afectada y afectar
-otros modulos</p>
-]]></content>
-  </entry>
   
 </feed>
